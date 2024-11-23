@@ -21,3 +21,13 @@
 - Large, mossy rock outcrops
 ## Snowy, Old Growth
 - .... look above
+# Pine Taiga
+- Exclusively Pine trees
+## Old Growth
+- Massive Pine trees
+- Podzol
+# Larch Taiga
+- Exclusively Larch trees
+## Old Growth
+- Massive Larch trees
+- Podzol
