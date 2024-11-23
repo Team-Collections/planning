@@ -4,26 +4,26 @@
 - Make Oak trees a little larger
 - Ponds?
 - Blueberry bushes
-# Forest (Young)
+## Young
 - Use vanilla-size trees
 - Actually, it'll just be the vanilla Forest
 - Natural saplings
-# Forest (Old Growth)
+## Old Growth
 - Large Oak trees
 - Small, mossy rock outcrops
 - More fallen trees
 - Ferns, Tall Grass?
 - [Duff](https://en.wikipedia.org/wiki/Forest_floor)?
-# Forest (Mixed)
+## Mixed
 - Mix of Oak, Birch, Spruce, Maple, and Pine trees
 - Duff
-# Forest (Flowered)
+## Flowered
 - Covered in flowers, obviously
 - Taller trees
 - Increased Bee Nest chance
 - Make many of the leaves flowering
 - Flower particles, possibly?
-## Mobs
+### Mobs
 - Moolips
 - Mooblooms
 - Bees
