@@ -1,8 +1,98 @@
-# Type
+# Block
 - Log
 - Wood
 - Stripped Log
 - Stripped Wood
 - Planks
 - Mosaic
-# 
+# Shape
+- Block
+- Stair
+- Slab
+- Fence
+- Fence Gate
+- Wall
+- Pressure Plate
+- Button
+- Sign
+- Hanging Sign
+# Wood Types
+- Oak
+- Spruce
+- Birch
+- Jungle
+- Acacia
+- Dark Oak
+- Mangrove
+- Cherry
+- Pale Oak
+- Bamboo
+- Crimson
+- Warped
+- Azalea
+- (Composter)
+- (Jukebox)
+- Mahogany (Smithing Table)
+- Walnut
+- Maple
+- Pine
+- Larch
+- Swamp Oak (Green)
+# Special
+- Door
+- Trapdoor
+- Ladder
+- Boat
+- Chest Boat
+- Chest
+- Barrel
+- Bookshelf
+- Chiseled Bookshelf
+- Crafting Table
+- Fletching Table
+- Cartography Table
+- Smithing Table
+- Composter
+- Lectern
+- Stone Cutter
+- Grindstone
+- Smoker
+- Bee Hive
+- Jukebox
+- Note Block
+- Piston
+- Sticky Piston
+- Crafter
+- Rail
+- Powered Rail
+- Detector Rail
+- Activator Rail
+- Campfire
+- Soul Campfire
+- Bed
+- Banner
+- Armor Stand
+- Item Frame
+- Glowing Item Frame
+- Torch
+- Soul Torch
+- Redstone Torch
+- Repeater
+- Comparator
+- Lever
+- Tripwire Hook
+# Items
+- Stick
+- Sword
+- Pickaxe
+- Axe
+- Shovel
+- Hoe
+- Fishing Rod
+- Carrot on a Stick
+- Warped Fungus on a Stick
+- Bow
+- Crossbow
+- Arrow
+- Brush
+- Bowl
