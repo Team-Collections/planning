@@ -2,20 +2,22 @@
 - Mix of Spruce, Pine, and Larch trees
 - Gravelly riverbeds
 - Mix in patches of Duff
-# Taiga (Sparse)
+## Sparse
 - Flat and rolling
 - Populated with golden, brown, orange, and red grasses
-# Taiga (Snowy)
+## Snowy
 - Mix of Spruce, Pine, and Larch trees
 - Slight snow fog
 - Relatively vegetation-free
 # Spruce Taiga
 - Exclusively Spruce trees
-# Spruce Taiga (Snowy)
+## Snowy
+![Snowy Taiga](https://www.shutterstock.com/shutterstock/videos/1018134274/thumb/1.jpg)
 - Snow
 - Slight snow fog
-# Spruce Taiga (Old Growth)
+## Old Growth
 - Massive Spruce trees
 - Podzol
 - Large, mossy rock outcrops
-# Spruce Taiga (Snowy, Old Growth)
+## Snowy, Old Growth
+- .... look above
