@@ -6,13 +6,13 @@
 - Flat and rolling
 - Populated with golden, brown, orange, and red grasses
 ## Snowy
+![Snowy Taiga](https://www.shutterstock.com/shutterstock/videos/1018134274/thumb/1.jpg)
 - Mix of Spruce, Pine, and Larch trees
 - Slight snow fog
 - Relatively vegetation-free
 # Spruce Taiga
 - Exclusively Spruce trees
 ## Snowy
-![Snowy Taiga](https://www.shutterstock.com/shutterstock/videos/1018134274/thumb/1.jpg)
 - Snow
 - Slight snow fog
 ## Old Growth
