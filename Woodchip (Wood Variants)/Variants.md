@@ -3,7 +3,7 @@ For each wood type, there will be variants for every wood-related block and item
 
 > For example, Oak Planks, Oak Logs, and Oak Mosaics will all have stairs, slabs, and other shape variants. But, Oak Chests won't have any kind of variants.
 ## Wood Types
-For every wood type, there will be a new type of tree, coming with leaves and saplings. However, they don't need to actually be placed in world gen, as that will be up to [[! (Overworld Biomes)|Overworld Biomes]] to handle.
+For every wood type, there will be a new type of tree, coming with leaves and saplings. However, they don't need to actually be placed in world gen, as that will be up to [[Projects/Mods/Collections-Craftination/(Overworld Biomes)/README|Overworld Biomes]] to handle.
 ### Variants
 - Oak
 - Spruce
