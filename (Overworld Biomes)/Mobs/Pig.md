@@ -3,6 +3,8 @@
 - Prairie
 - Savanna
 - Shrubland
+### Coastland
+- Ancient Island
 ### Flatland
 - Plains
 ### Highland
