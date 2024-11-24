@@ -31,3 +31,5 @@
 ## Old Growth
 - Massive Larch trees
 - Podzol
+# Birch Taiga
+- Tall Birch trees
