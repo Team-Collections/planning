@@ -6,6 +6,6 @@
 - Very few trees, but lots of shrubs
 ## Grassy
 - No trees or shrubs, just grass
-## Plateu
+## Plateau
 
 ## Windswept
