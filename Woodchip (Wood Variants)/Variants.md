@@ -26,6 +26,7 @@ For every wood type, there will be a new type of tree, coming with leaves and sa
 - Pine
 - Larch
 - Swamp Oak (Green)
+- Redwood
 ## Blocks
 Each of these are the primary variant blocks for each wood set. They will be the main building blocks, and will each come with every shape variant.
 ### Variants
