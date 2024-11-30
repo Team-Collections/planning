@@ -287,188 +287,188 @@
 ### `mob/raids`
 - Whether raids are able to happen
 - Default: `true`
-## Minecarts
-##### `minecart/max_speed`
+## `minecart`
+### `minecart/max_speed`
 - The max speed Minecarts are able to reach
 - Default: `8`
-## Items
-##### `item/lore`
+## `item`
+### `item/lore`
 - Whether items will display their lore
 - Default: `true`
-###### `item/lore/stats`
+#### `item/lore/stats`
 - Whether items will display their stats, such as attack damage
 - Default: `true`
-###### `item/lore/enchantments`
+#### `item/lore/enchantments`
 - Whether items will display their enchantments
 - Default: `true`
-###### `item/lore/placement_context`
+#### `item/lore/placement_context`
 - Whether items will display their placement context
 - Default: `true`
-###### `item/lore/destroy_context`
+#### `item/lore/destroy_context`
 - Whether items will display what they can destroy
 - Default: `true`
-## Blocks
-##### `block/gravity`
+## `block`
+### `block/gravity`
 - Whether gravity-affected blocks should fall
 - Default: `true`
 
-##### `block/source_conversion`
-###### `block/source_conversion/water`
+### `block/source_conversion`
+#### `block/source_conversion/water`
 - Whether new water sources are allowed to form
 - Default: `true`
-###### `block/source_conversion/lava`
+#### `block/source_conversion/lava`
 - Whether new lava sources are allowed to form
 - Default: `true`
 
-##### `block/formation`
-###### `block/formation/ice`
+### `block/formation`
+#### `block/formation/ice`
 - Whether Ice can form in cold biomes
 - Default: `true`
-###### `block/formation/cobblestone`
+#### `block/formation/cobblestone`
 - Whether Cobblestone can form from water/lava interactions
 - Default: `true`
-###### `block/formation/stone`
+#### `block/formation/stone`
 - Whether Stone can form from water/lava interactions
 - Default: `true`
-###### `block/formation/obsidian`
+#### `block/formation/obsidian`
 - Whether Obsidian can form from water/lava interactions
 - Default: `true`
-###### `block/formation/basalt`
+#### `block/formation/basalt`
 - Whether Basalt can form from lava interactions
 - Default: `true`
 
-##### `block/explode`
-###### `block/explode/respawn_block`
+### `block/explode`
+#### `block/explode/respawn_block`
 - Whether respawn blocks explode when used in the wrong dimension
 - Default: `true`
-###### `block/explode/tnt`
+#### `block/explode/tnt`
 - Whether TNT blocks explode
 - Default: `true`
-###### `block/explode/end_crystal`
+#### `block/explode/end_crystal`
 - Whether End Crystals explode
 - Default: `true`
 
-##### `block/border/effect`
+### `block/border/effect`
 - Whether to show the effects of Border blocks
 - Default: `true`
-## Projectiles
-##### `projectile/can_break_blocks`
+## `projectile`
+### `projectile/can_break_blocks`
 - Whether projectiles are able to break some blocks
 - Default: `true`
-## World
-##### `world/cycle`
-###### `world/cycle/daylight`
+## `world`
+### `world/cycle`
+#### `world/cycle/daylight`
 - Whether to progress the daylight cycle
 - Default: `true`
-###### `world/cycle/weather`
+#### `world/cycle/weather`
 - Whether to progress the weather cycle
 - Default: `true`
 
-##### `world/tick/random`
+### `world/tick/random`
 - Whether to randomly update blocks
 - Default: `true`
-###### `world/tick/random/speed`
+#### `world/tick/random/speed`
 - How many blocks that should be randomly updated per tick
 - Default: `3`
 
-##### `world/spawn`
-###### `world/spawn/radius`
+### `world/spawn`
+#### `world/spawn/radius`
 - The radius in which players should spawn
 - Default: `10`
-###### `world/spawn/immediate`
+#### `world/spawn/immediate`
 - Whether players should skip the death screen and immediately respawn
 - Default: `false`
 
-##### `world/spread`
-###### `world/spread/vines`
+### `world/spread`
+#### `world/spread/vines`
 - Whether Vines should naturally spread over time
 - Default: `true`
-###### `world/spread/fire`
+#### `world/spread/fire`
 - Whether fire should spread naturally over time
 - Default: `true`
-###### `world/spread/sculk`
+#### `world/spread/sculk`
 - Whether Sculk should be spread by Sculk Catalysts
 - Default: `true`
 
-##### `world/accumulation/height`
-###### `world/accumulation_height/snow`
+### `world/accumulation/height`
+#### `world/accumulation_height/snow`
 - The max height that snow layers should accumulate to
 - Default: `1`
-###### `world/accumulation_height/sand`
+#### `world/accumulation_height/sand`
 - The max height that sand layers should accumulate to
 - Default: `1`
 
-##### `world/chunk`
-###### `world/chunk/spawn/radius`
+### `world/chunk`
+#### `world/chunk/spawn/radius`
 - The radius of chunks around spawn that should be permanently loaded
 - Default: `2`
 
-###### `world/chunk/load/spectator`
+#### `world/chunk/load/spectator`
 - Whether players in spectator mode should load chunks
 - Default: `true`
-###### `world/chunk/load/ender_pearl`
+#### `world/chunk/load/ender_pearl`
 - Whether Ender Pearls should load chunks
 - Default: `true`
-###### `world/chunk/load/portal`
+#### `world/chunk/load/portal`
 - Whether entities transferring through portals should load chunks
 - Default: `true`
-## Drops
-##### `drop/block`
+## `drop`
+### `drop/block`
 - Whether blocks should drop items when broken
 - Default: `true`
-##### `drop/entity`
+### `drop/entity`
 - Whether entities should drop items when killed
 - Default: `true`
-##### `drop/mob_loot`
+### `drop/mob_loot`
 - Whether mobs should drop loot when killed (items and XP)
 - Default: `true`
 
-##### `drop/decay`
-###### `drop/decay/explosion/block`
+### `drop/decay`
+#### `drop/decay/explosion/block`
 - Whether some drops should be lost during block explosions
 - Default: `true`
-###### `drop/decay/explosion/mob`
+#### `drop/decay/explosion/mob`
 - Whether some drops should be lost during mob explosions
 - Default: `true`
-###### `drop/decay/explosion/tnt`
+#### `drop/decay/explosion/tnt`
 - Whether some drops should be lost during TNT explosions
 - Default: `false`
-## Chat
-##### `chat/announce/advancement`
+## `chat`
+### `chat/announce/advancement`
 - Whether advancements should be announced in chat
 - Default: `true`
-##### `chat/announce/death`
+### `chat/announce/death`
 - Whether death messages should be announced in chat
 - Default: `true`
-## Sound
-##### `sound/global_sounds`
+## `sound`
+### `sound/global_sounds`
 - Whether some sounds play globally (End Portal opening, Ender Dragon death, etc)
 - Default: `true`
-## Commands
-##### `command/command_blocks`
+## `command`
+### `command/command_blocks`
 - Whether Command Blocks can execute
 - Default: `true`
-##### `command/log_admin_commands`
+### `command/log_admin_commands`
 - Whether to log admin commands to the server log
 - Default: `true`
-##### `command/send_feedback`
+### `command/send_feedback`
 - Whether to show feedback from commands in chat
 - Default: `true`
 
-##### `command/chain_limit`
+### `command/chain_limit`
 - The max length of a chain of commands that can be executed in one tick
 - Default: `65536`
-##### `command/fork_limit`
+### `command/fork_limit`
 - The max number of forks that can be created in one tick
 - Default: `65536`
-##### `command/block_modification_limit`
+### `command/block_modification_limit`
 - The max number of blocks that can be changed by a single command
 - Default: `32768`
-##### `command/function_call_limit`
+### `command/function_call_limit`
 - The max number of commands that can be executed by `/function`
 - Default: `10000`
-## Debug
-##### `debug/reduced_info`
+## `debug`
+### `debug/reduced_info`
 - Whether to show reduced debug info
 - Default: `false`
 # Credits
