@@ -23,33 +23,19 @@
 - Whether players are allowed to fly
 - Default: 
 
-### `player/damage`
+### `player/damage <source>`
 - Whether the player takes damage
 - Default: `false`
-#### `player/damage/falling`
-- Whether the player takes fall damage
-- Default: `true`
-#### `player/damage/drowning`
-- Whether the player takes damage from drowning
-- Default: `true`
-#### `player/damage/fire`
-- Whether the player takes damage from fire
-- Default: `true`
-#### `player/damage/freezing`
-- Whether the player takes damage from freezing
-- Default: `true`
-#### `player/damage/suffocation`
-- Whether the player takes damage from suffocating in blocks
-- Default: `true`
-#### `player/damage/cactus`
-- Whether the player takes damage from touching cactus
-- Default: `true`
-#### `player/damage/sweet_berry`
-- Whether the player takes damage from touching sweet berry bushes
-- Default: `true`
-#### `player/damage/ender_pearl`
-- Whether the player takes damage from teleporting with ender pearls
-- Default: `true`
+#### Sources
+- `falling`
+- `drowning`
+- `fire`
+- `freezing`
+- `suffocation`
+- `cactus`
+- `sweet_berry`
+- `ender_pearl`
+- `magma`
 
 ### `player/on_death`
 #### `player/on_death/keep_inventory`
@@ -67,6 +53,9 @@
 #### `player/on_death/ender_pearls_vanish`
 - Whether the ender pearls thrown by the player vanish on death
 - Default: `true`
+#### `player/on_death/drop_spread`
+- How much to spread the player's item drops on death
+- Default: `1.0`
 
 ### `player/portal/delay`
 - The time (in ticks) a player must stand in a portal to be transported
@@ -132,25 +121,16 @@
 ### `mob/griefing`
 - Whether mobs are able to grief the world
 - Default: `true`
-#### `mob/griefing/destroy`
-##### `mob/griefing/destroy/zombie`
-- Whether Zombies are able to destroy blocks
+#### `mob/griefing/destroy <mob>`
+- Whether mobs are able to destroy blocks
 - Default: `true`
-##### `mob/griefing/destroy/creeper`
-- Whether Creepers are able to destroy blocks
-- Default: `true`
-##### `mob/griefing/destroy/ravager`
-- Whether Ravagers are able to destroy blocks
-- Default: `true`
-#####  `mob/griefing/destroy/ghast`
-- Whether Ghasts are able to destroy blocks
-- Default: `true`
-##### `mob/griefing/destroy/wither`
-- Whether Withers are able to destroy blocks
-- Default: `true`
-##### `mob/griefing/destroy/ender_dragon`
-- Whether the Ender Dragon is able to destroy blocks
-- Default: `true`
+##### Mobs
+- `zombie`
+- `creeper`
+- `ravager`
+- `ghast`
+- `wither`
+- `ender_dragon``
 #### `mob/griefing/enderlings_move_blocks`
 - Whether Enderlings can pick up and move blocks
 - Default: `true`
@@ -171,6 +151,12 @@
 ##### `mob/griefing/trample/turtle_eggs`
 - Whether mobs can trample Turtle Eggs
 - Default: `true`
+#### `mob/griefing/sheep_eat_grass`
+- Whether Sheep can eat Grass Blocks
+- Default: `true`
+#### `mob/griefing/rabbits_eat_carrots`
+- Whether Rabbits will eat Carrot crops
+- Default: `true`
 #### `mob/griefing/snow_golems_leave_trails`
 - Whether Snow Golems leave trails of snow
 - Default: `true`
@@ -178,50 +164,32 @@
 - Whether Evokers turn blue Sheep red
 - Default: `true`
 
-### `mob/teleport`
-###### `mob/teleport/enderling`
-- Whether Enderlings are able to teleport
+### `mob/teleport <mob>`
+- Whether mobs are able to teleport
 - Default: `true`
-###### `mob/teleport/shulker`
-- Whether Shulkers are able to teleport
-- Default: `true`
+#### Mobs
+- `enderling`
+- `shulker`
 
-### `mob/spawning`
+### `mob/spawning <category>`
 - Whether mobs are able to spawn
 - Default: `true`
-#### `mob/spawning/creature`
-- Whether creature mobs are able to spawn
-- Default: `true`
-#### `mob/spawning/monster`
-- Whether monster mobs are able to spawn
-- Default: `true`
-#### `mob/spawning/ambient`
-- Whether ambient mobs are able to spawn
-- Default: `true`
-#### `mob/spawning/water/creature`
-- Whether water creature mobs are able to spawn
-- Default: `true`
-#### `mob/spawning/water/ambient`
-- Whether water ambient mobs are able to spawn
-- Default: `true`
-#### `mob/spawning/underground/water/creature`
-- Whether underground water creature mobs are able to spawn
-- Default: `true`
-#### `mob/spawning/underground/axolotl`
-- Whether Axolotls are able to spawn
-- Default: `true`
-#### `mob/spawning/insomnia`
-- Whether Phantoms can spawn due to insomnia
-- Default: `true`
-#### `mob/spawning/patrol`
-- Whether Pillager patrols can spawn
-- Default: `true`
-#### `mob/spawning/wandering_trader`
-- Whether Wandering Traders are able to spawn
-- Default: `true`
-#### `mob/spawning/warden`
-- Whether Wardens are able to spawn
-- Default: `true`
+#### Categories
+- `creature`
+- `monster`
+- `ambient`
+- `water/creature`
+- `water/underground/creature`
+- `water/ambient`
+- `underground/axolotl`
+- `insomnia`
+- `patrol`
+- `wandering_trader`
+- `warden`
+
+### `mob/spawning/light_level`
+- The light level required for a monster to spawn
+- Default: `0`
 
 ### `mob/target`
 #### `mob/target/player`
@@ -232,54 +200,28 @@
 - Default: `true`
 
 ### `mob/anger`
-#### `mob/anger/universal`
+#### `mob/anger/universal <mob>`
 - Whether mobs get angry at every player, rather than only the one who angered them
 - Default: `false`
-##### `mob/anger/universal/bee`
-- Whether Bees get angry at every player, rather than only the one who angered them
-- Default: `false`
-##### `mob/anger/universal/wolf`
-- Whether Wolves get angry at every player, rather than only the one who angered them
-- Default: `false`
-##### `mob/anger/universal/llama`
-- Whether Llamas get angry at every player, rather than only the one who angered them
-- Default: `false`
-##### `mob/anger/universal/iron_golem`
-- Whether Iron Golems get angry at every player, rather than only the one who angered them
-- Default: `false`
-##### `mob/anger/universal/piglin`
-- Whether Piglins get angry at every player, rather than only the one who angered them
-- Default: `false`
-##### `mob/anger/universal/zombified_piglin`
-- Whether Zombified Piglins get angry at every player, rather than only the one who angered them
-- Default: `false`
-##### `mob/anger/universal/enderling`
-- Whether Enderlings get angry at every player, rather than only the one who angered them
-- Default: `false`
-#### `mob/anger/forgive_dead_players`
+##### Mobs
+- `bee`
+- `wolf`
+- `llama`
+- `iron_golem`
+- `piglin`
+- `zombified_piglin`
+- `enderling
+#### `mob/anger/forgive_dead_players <mob>`
 - Whether mobs stop being angry when the target dies
 - Default: `true`
-##### `mob/anger/forgive_dead_players/bee`
-- Whether Bees stop being angry when the target dies
-- Default: `true`
-##### `mob/anger/forgive_dead_players/wolf`
-- Whether Wolves stop being angry when the target dies
-- Default: `true`
-##### `mob/anger/forgive_dead_players/llama`
-- Whether Llamas stop being angry when the target dies
-- Default: `true`
-##### `mob/anger/forgive_dead_players/iron_golem`
-- Whether Iron Golems stop being angry when the target dies
-- Default: `true`
-##### `mob/anger/forgive_dead_players/piglin`
-- Whether Piglins stop being angry when the target dies
-- Default: `true`
-##### `mob/anger/forgive_dead_players/zombified_piglin`
-- Whether Zombified Piglins stop being angry when the target dies
-- Default: `true`
-##### `mob/anger/forgive_dead_players/enderling`
-- Whether Enderlings stop being angry when the target dies
-- Default: `true`
+##### Mobs
+- `bee`
+- `wolf`
+- `llama`
+- `iron_golem`
+- `piglin`
+- `zombified_piglin`
+- `enderling
 
 ### `mob/cramming_limit`
 - The number of mobs that can be crammed together before they start taking cramming damage
@@ -287,6 +229,9 @@
 ### `mob/raids`
 - Whether raids are able to happen
 - Default: `true`
+### `mob/ender_dragon/egg_respawns`
+- Whether the Dragon Egg respawns on every Dragon kill
+- Default: `false`
 ## `minecart`
 ### `minecart/max_speed`
 - The max speed Minecarts are able to reach
@@ -308,9 +253,21 @@
 - Whether items will display what they can destroy
 - Default: `true`
 ## `block`
-### `block/gravity`
+### `block/gravity <block>`
 - Whether gravity-affected blocks should fall
 - Default: `true`
+#### Blocks
+- `sand`
+- `sand_layer`
+- `snow_layer`
+- `gravel`
+- `anvil`
+- `dragon_egg`
+- `suspicious_sand`
+- `suspicious_gravel`
+- `concrete_powder`
+- `pointed_dripstone`
+- `scaffolding`
 
 ### `block/source_conversion`
 #### `block/source_conversion/water`
@@ -320,32 +277,56 @@
 - Whether new lava sources are allowed to form
 - Default: `true`
 
-### `block/formation`
-#### `block/formation/ice`
-- Whether Ice can form in cold biomes
+### `block/formation <block>`
+- Whether Blocks can naturally form naturally or from interactions
 - Default: `true`
-#### `block/formation/cobblestone`
-- Whether Cobblestone can form from water/lava interactions
+#### Blocks
+- `ice`
+- `snow`
+- `cobblestone`
+- `stone`
+- `obsidian`
+- `basalt`
+
+### `block/update`
+#### `block/update/copper_oxidizes`
+- Whether Copper oxidizes naturally
 - Default: `true`
-#### `block/formation/stone`
-- Whether Stone can form from water/lava interactions
+#### `block/update/ice_melts`
+- Whether Ice melts when near light
 - Default: `true`
-#### `block/formation/obsidian`
-- Whether Obsidian can form from water/lava interactions
-- Default: `true`
-#### `block/formation/basalt`
-- Whether Basalt can form from lava interactions
+#### `block/update/snow_melts`
+- Whether Snow melts when near light
 - Default: `true`
 
-### `block/explode`
-#### `block/explode/respawn_block`
-- Whether respawn blocks explode when used in the wrong dimension
+### `block/explode <block>`
+- Whether some blocks explode
 - Default: `true`
-#### `block/explode/tnt`
-- Whether TNT blocks explode
+#### Blocks
+- `respawn_block`
+- `tnt`
+- `end_crystal`
+
+### `block/portal_lights`
+- Whether portals will light (to disable dimensions)
 - Default: `true`
-#### `block/explode/end_crystal`
-- Whether End Crystals explode
+#### `block/portal_lights/nether`
+- Whether Nether portals will light
+- Default: `true`
+#### `block/portal_lights/end
+- Whether End portals will light
+- Default: `true`
+
+### `block/anvil/damages_entities`
+- Whether Anvils damage entities when falling on them
+- Default: `true`
+
+### `block/push_limit`
+- How many blocks that can be pushed by a Piston at once
+- Default: `12`
+
+### `block/coral_dehydrates`
+- Whether Coral blocks will die when outside of water
 - Default: `true`
 
 ### `block/border/effect`
@@ -472,5 +453,8 @@
 - Whether to show reduced debug info
 - Default: `false`
 # Credits
-https://modrinth.com/mod/expanded-gamerules
-https://modrinth.com/mod/granular-gamerules
+- https://modrinth.com/mod/expanded-gamerules
+- https://modrinth.com/mod/granular-gamerules
+- https://modrinth.com/mod/not-enough-gamerules
+- https://modrinth.com/mod/moregamerules
+- https://modrinth.com/mod/drop-spread-2
