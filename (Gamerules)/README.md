@@ -110,13 +110,13 @@
 - Default: `true`
 
 ### `player/xp`
-
 #### `player/xp/instant_collect`
 - Whether to collect XP instantly, rather than over time
 - Default: `false`
 #### `player/xp/exponential_cost`
 - Whether the XP requirement for levelling up should grow exponentially
 - Default: `true`
+
 ## `mob`
 ### `mob/griefing`
 - Whether mobs are able to grief the world
@@ -186,7 +186,6 @@
 - `patrol`
 - `wandering_trader`
 - `warden`
-
 ### `mob/spawning/light_level`
 - The light level required for a monster to spawn
 - Default: `0`
@@ -226,16 +225,20 @@
 ### `mob/cramming_limit`
 - The number of mobs that can be crammed together before they start taking cramming damage
 - Default: `24`
+
 ### `mob/raids`
 - Whether raids are able to happen
 - Default: `true`
+
 ### `mob/ender_dragon/egg_respawns`
 - Whether the Dragon Egg respawns on every Dragon kill
 - Default: `false`
+
 ## `minecart`
 ### `minecart/max_speed`
 - The max speed Minecarts are able to reach
 - Default: `8`
+
 ## `item`
 ### `item/lore`
 - Whether items will display their lore
@@ -252,6 +255,7 @@
 #### `item/lore/destroy_context`
 - Whether items will display what they can destroy
 - Default: `true`
+
 ## `block`
 ### `block/gravity <block>`
 - Whether gravity-affected blocks should fall
@@ -332,10 +336,12 @@
 ### `block/border/effect`
 - Whether to show the effects of Border blocks
 - Default: `true`
+
 ## `projectile`
 ### `projectile/can_break_blocks`
 - Whether projectiles are able to break some blocks
 - Default: `true`
+
 ## `world`
 ### `world/cycle`
 #### `world/cycle/daylight`
@@ -393,6 +399,7 @@
 #### `world/chunk/load/portal`
 - Whether entities transferring through portals should load chunks
 - Default: `true`
+
 ## `drop`
 ### `drop/block`
 - Whether blocks should drop items when broken
@@ -414,6 +421,7 @@
 #### `drop/decay/explosion/tnt`
 - Whether some drops should be lost during TNT explosions
 - Default: `false`
+
 ## `chat`
 ### `chat/announce/advancement`
 - Whether advancements should be announced in chat
@@ -421,10 +429,12 @@
 ### `chat/announce/death`
 - Whether death messages should be announced in chat
 - Default: `true`
+
 ## `sound`
 ### `sound/global_sounds`
 - Whether some sounds play globally (End Portal opening, Ender Dragon death, etc)
 - Default: `true`
+
 ## `command`
 ### `command/command_blocks`
 - Whether Command Blocks can execute
@@ -448,10 +458,12 @@
 ### `command/function_call_limit`
 - The max number of commands that can be executed by `/function`
 - Default: `10000`
+
 ## `debug`
 ### `debug/reduced_info`
 - Whether to show reduced debug info
 - Default: `false`
+
 # Credits
 - https://modrinth.com/mod/expanded-gamerules
 - https://modrinth.com/mod/granular-gamerules
