@@ -19,7 +19,7 @@
 - Chevronny (Chief, Base, Dexter, Sinister)
 - Gyronny
 - Orly
-- Checky (Inverted)
+- ~~Checky (Inverted)~~
 - Lozengy
 - Fusilly
 - Masculy
