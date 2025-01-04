@@ -1,0 +1,72 @@
+# Field Variations
+- ~~Per Fess (Chief, Base)~~
+	- Indented
+	- Embattled
+	- Wavy
+- ~~Per Pale(Dexter, Sinister)~~
+	- Indented
+	- Embattled
+	- Wavy
+- ~~Per Bend (Chief Dexter, Chief Sinister, Base Dexter, Base Sinister)~~
+- Quarterly (Chief Dexter, Chief Sinister, Base Dexter, Base Sinister)
+- Per Saltire (~~Chief~~, ~~Base~~, Dexter, Sinister)
+	- Ployé
+- Gradient (~~Chief~~, ~~Base~~, Dexter, Sinister)
+## Repeated
+- ~~Paly~~
+- Barry
+- Bendy (Dexter, Sinister)
+- Chevronny (Chief, Base, Dexter, Sinister)
+- Gyronny
+- Orly
+- Checky
+- Lozengy
+- Fusilly
+- Masculy
+- Rustré
+- ~~Masoned~~
+- Honeycombed
+- Scaly
+# [Ordinaries](https://www.heraldry-wiki.com/wiki/Heraldic_Glossary_-_Part_3_:_Ordinaries)
+- ~~Chief~~
+	- ~~Indented~~
+	- Embattled
+	- Wavy
+- ~~Base~~
+	- ~~Indented~~
+	- Embattled
+	- Wavy
+- ~~Fess~~ (Chief, Base)
+- ~~Pale (Dexter, Sinister)~~
+- ~~Bend (Dexter, Sinister)
+- ~~Cross~~
+- ~~Saltire~~
+- ~~Bordure~~
+	- ~~Indented~~
+- ~~Orle~~
+- Chevron (~~Chief~~, ~~Base~~, Dexter, Sinister)
+- ~~Pall (Chief, Base)~~
+- Pile (~~Chief~~, ~~Base~~, Dexter, Sinister)
+- ~~Canton (Chief Dexter, Chief Sinister, Base Dexter, Base Sinister)~~
+- ~~Flaunch (Dexter, Sinister)~~
+- Gusset (Chief Dexter, Chief Sinister, Base Dexter, Base Sinister)
+- Tierce (Dexter, Sinister)
+# [Subordinaries](https://www.heraldry-wiki.com/wiki/Heraldic_Glossary_-_Part_4_:_Subordinaries)
+- ~~Roundel~~
+- ~~Annulet~~
+- Billet
+- ~~Lozenge~~
+- ~~Fusil~~
+- ~~Mascle~~
+- ~~Escutcheon~~
+- ~~Label (Chief, Base)~~
+# Charges
+- Flower
+- Creeper
+- Skull
+- Thing
+- Globe
+- Snout
+- Flow
+- Guster
+- Star
