@@ -38,7 +38,7 @@
 	- Wavy
 - ~~Fess~~ (Chief, Base)
 - ~~Pale (Dexter, Sinister)~~
-- ~~Bend (Dexter, Sinister)
+- ~~Bend (Dexter, Sinister)~~
 - ~~Cross~~
 - ~~Saltire~~
 - ~~Bordure~~
