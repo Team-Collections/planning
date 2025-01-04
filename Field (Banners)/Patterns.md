@@ -14,9 +14,9 @@
 - Gradient (~~Chief~~, ~~Base~~, Dexter, Sinister)
 ## Repeated
 - ~~Paly~~
-- Barry
-- Bendy (Dexter, Sinister)
-- Chevronny (Chief, Base, Dexter, Sinister)
+- ~~Barry~~
+- ~~Bendy (Dexter, Sinister)~~
+- Chevronny (~~Chief~~, ~~Base~~, Dexter, Sinister)
 - Gyronny
 - Orly
 - ~~Checky (Inverted)~~
@@ -36,7 +36,7 @@
 	- ~~Indented~~
 	- Embattled
 	- Wavy
-- ~~Fess~~ (Chief, Base)
+- ~~Fess (Chief, Base)~~
 - ~~Pale (Dexter, Sinister)~~
 - ~~Bend (Dexter, Sinister)~~
 - ~~Cross~~
@@ -50,7 +50,7 @@
 - ~~Canton (Chief Dexter, Chief Sinister, Base Dexter, Base Sinister)~~
 - ~~Flaunch (Dexter, Sinister)~~
 - Gusset (Chief Dexter, Chief Sinister, Base Dexter, Base Sinister)
-- Tierce (Dexter, Sinister)
+- Tierce (~~Dexter, Sinister~~)
 # [Subordinaries](https://www.heraldry-wiki.com/wiki/Heraldic_Glossary_-_Part_4_:_Subordinaries)
 - ~~Roundel~~
 - ~~Annulet~~
@@ -61,12 +61,12 @@
 - ~~Escutcheon~~
 - ~~Label (Chief, Base)~~
 # Charges
-- Flower
-- Creeper
-- Skull
-- Thing
-- Globe
-- Snout
-- Flow
-- Guster
-- Star
+- ~~Flower~~
+- ~~Creeper~~
+- ~~Skull~~
+- ~~Thing~~
+- ~~Globe~~
+- ~~Snout~~
+- ~~Flow~~
+- ~~Guster~~
+- ~~Star~~
