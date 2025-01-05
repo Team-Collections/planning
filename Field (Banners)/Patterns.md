@@ -11,7 +11,7 @@
 - Quarterly (Chief Dexter, Chief Sinister, Base Dexter, Base Sinister)
 - Per Saltire (~~Chief~~, ~~Base~~, Dexter, Sinister)
 	- Ployé
-- Gradient (~~Chief~~, ~~Base~~, Dexter, Sinister)
+- ~~Grady (in Pale Chief, in Pale Base, in Fess Dexter, in Fess Sinister, per Pale, per Fess, in Annulo)
 ## Repeated
 - ~~Paly~~
 - ~~Barry~~
