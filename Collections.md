@@ -1,12 +1,3 @@
----
-parents:
-  - "[[Projects]]"
-related: 
-tags:
-  - Note/Map
-  - Item/Project/Collections
-created: 2025-05-17 13:50
----
 ___
 # Collections
 A collection of vanilla-style mods that greatly enhance, rework, and expand upon the vanilla game. All mods should (hopefully) fit well with vanilla, adhering to Mojang's design principles, aligning with Minecraft's style, and fitting seamlessly into gameplay.
@@ -156,4 +147,3 @@ ___
 await dv.view( "Assets/Scripts/Maps/listRelatedMaps" )
 ```
 ___
-
