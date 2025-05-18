@@ -38,7 +38,7 @@ Decoration
 ![[Field#^Description]]
 
 Depends on:
-- Banner Tooltips
+- Banner Tooltips 
 
 ### (Redstone)
 Redstone
@@ -140,10 +140,4 @@ Gives each painting a unique texture to make them easily differentiable
 ### (Unique potions)
 Gives each potion a unique texture to make them easily differentiable
 
-___
-# Related Maps
-
-```dataviewjs
-await dv.view( "Assets/Scripts/Maps/listRelatedMaps" )
-```
 ___
