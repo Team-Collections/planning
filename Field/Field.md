@@ -1,11 +1,3 @@
----
-parents:
-  - "[[60 - Items/Projects/Collections/Collections|Collections]]"
-related: 
-tags:
-  - Item/Project/Collections
-created: 2025-01-03 21:21
----
 ___
 
 <a href="https://github.com/Team-Collections/field">
@@ -59,7 +51,7 @@ ___
 ---
 # Features
 
-## [[Patterns|New Banner Patterns]]
+## [New Banner Patterns](./Patterns.md)
 Field adds many, many new banner patterns, allowing for even greater customizability. All of them attempt to be in-line with heraldry - the system banner patterns are based off of, so they should fit well with the rest of the banner patterns.
 
 <img src="https://raw.githubusercontent.com/Team-Collections/.github/refs/heads/main/assets/showcase/Textile%20Mill.png" alt="A medieval textile mill with one large loom and a smaller loom off to the side. The wall and large loom has a large variety of random banners, showing off the banner patterns added." align="center"/>
@@ -69,7 +61,7 @@ ___
 The banner has been retextured to be a little less noisy and clean. Along with this, many of the vanilla banner patterns have also been retextured, smoothing them out. There should hopefully be little difference to your existing designs.
 
 ___
-## [[Patterns|Renamed Banner Patterns]]
+## [Renamed Banner Patterns](./Patterns.md)
 Some of the vanilla banner patterns didn't fit into the naming scheme of heraldry (read above), so they have been updated to fit in. None of the designs have been significantly changed, only the names.
 
 ___
@@ -81,7 +73,7 @@ To avoid having a mile-long tooltip, the tooltip will only display, by default, 
 <img src="https://raw.githubusercontent.com/Team-Collections/.github/refs/heads/main/assets/showcase/More%20Banner%20Layers.png" alt="A banner being hovered over, showing a tooltip describing it. The banner has the patterns: Blue Grady Base, Blue Grady Chief, Blue Bordure, Blue Per Fess Base, Blue Per Pale Sinister, Blue Per Fess Chief, Blue Per Pale Dexter, Blue Fusil, and with 24 more being trimmed." align="center"/>
 
 ___
-## [[Forms|Hanging Banners]]
+## [Hanging Banners](./Forms.md)
 Banners can now be placed on either the bottom of a block or the side of a block, similar to hanging signs. They can also connect with hanging signs, allowing for creative decorations.
 
 <img src="https://raw.githubusercontent.com/Team-Collections/.github/refs/heads/main/assets/showcase/Hanging%20Banners%20Tavern.png" alt="Two banners hanging above the entrance to a medieval tavern. They're both identical blue banners with a thin, yellow outline, and have a shield shape in the middle." align="center"/>
@@ -117,18 +109,18 @@ Banner Pattern tooltips have also been changed to have more simplified translati
 
 ---
 ## To-Do
-- [ ] [[Patterns|Finish adding the rest of the Banner Patterns]]
+- [ ] [Finish adding the rest of the Banner Patterns](./Patterns.md)
 - [ ] Re-retexture the Banner Patterns
-- [ ] [[Forms|Flag Banners]]
-- [ ] [[Forms|Bed Banner Sheets]]
-- [ ] [[Forms|Glowing Banners]]
-- [ ] [[Forms|Banner Shapes]]
+- [ ] [Flag Banners](./Forms.md)
+- [ ] [Bed Banner Sheets](./Forms.md)
+- [ ] [Glowing Banners](./Forms.md)
+- [ ] [Banner Shapes](./Forms.md)
 - [ ] Improved Loom GUI
 - [ ] Split Loom GUI and Loom tooltips into a dependency mod
 
 ___
 # Dependencies
-- None :)
+- None
 
 ___
 # Links
