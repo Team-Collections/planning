@@ -1,11 +1,3 @@
----
-parents:
-  - "[[Field]]"
-related: 
-tags:
-  - Item/Project/Collections
-created: 2025-05-17
----
 ___
 # Field Variations [^1]
 Patterns that divide up the field into different sections
@@ -64,6 +56,7 @@ Patterns that divide up the field into different sections
 	- [x] per Pale
 	- [x] per Fess
 	- [x] in Annulo
+
 ## Repeated
 Field divisions that are repeated in some way, such as striped, tiled, etc.
 - [x] Paly
@@ -88,6 +81,8 @@ Field divisions that are repeated in some way, such as striped, tiled, etc.
 - [x] Masoned
 - [ ] Honeycombed
 - [ ] Scaly
+
+___
 # Ordinaries [^2]
 - [ ] Chief
 	- [x] Standard
@@ -140,6 +135,8 @@ Field divisions that are repeated in some way, such as striped, tiled, etc.
 - [x] Tierce
 	- [x] Dexter
 	- [x] Sinister
+
+___
 # Subordinaries [^3]
 - [x] Roundel
 - [x] Annulet
@@ -151,6 +148,8 @@ Field divisions that are repeated in some way, such as striped, tiled, etc.
 - [x] Label
 	- [x] Chief
 	- [x] Base
+
+___
 # Charges
 - [x] Flower
 - [x] Creeper

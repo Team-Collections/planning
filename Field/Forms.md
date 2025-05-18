@@ -1,12 +1,3 @@
----
-parents:
-  - "[[Field]]"
-related:
-  - "[[Patterns]]"
-tags:
-  - Item/Project/Collections
-created: 2025-05-17 15:02
----
 ___
 # Forms
 Different forms the Banner can take
@@ -16,10 +7,13 @@ Different forms the Banner can take
 - [x] Hanging Wall Banner [^1]
 - [ ] Flag Banner [^1]
 - [ ] Banner Bed [^5]
+
+___
 # Variations
 Different variations the Banner can have applied
 - [ ] Glowing [^3]
-### Shape [^2] [^4]
+
+## Shape [^2] [^4]
 - [x] Base
 - [ ] Square
 
