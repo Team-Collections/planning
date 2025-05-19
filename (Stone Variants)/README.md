@@ -1,3 +1,0 @@
-# (Stone Variants)
-# Links
-### :(

@@ -1,3 +1,0 @@
-# (Redstone)
-# Links
-### :(

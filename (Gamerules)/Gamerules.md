@@ -1,7 +1,4 @@
-# (Gamerules)
-# Links
-### :(
-
+___
 # Gamerules
 ## `player`
 ### `player/regeneration`
@@ -466,9 +463,12 @@
 - Whether to show reduced debug info
 - Default: `false`
 
-# Credits
+___
+# Resources
 - https://modrinth.com/mod/expanded-gamerules
 - https://modrinth.com/mod/granular-gamerules
 - https://modrinth.com/mod/not-enough-gamerules
 - https://modrinth.com/mod/moregamerules
 - https://modrinth.com/mod/drop-spread-2
+
+___
