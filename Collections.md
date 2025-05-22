@@ -6,98 +6,98 @@ ___
 
 ## Variants
 
-### Woodchip
-Fills in the gaps in the existing wood sets, adds many new wood variants, and other assorted wood-related features.
+### [[(Variants)]]
+![[(Variants)#^Description]]
 
-### (Stone variants)
-Stone variants
-
-### (Color variants)
-Color variants
+### [[(Colors)]]
+![[(Colors)#^Description]]
 
 
 
 ## General
 
-### Saw (Crafting)
-Saw
+### [[Saw]]
+![[Saw#^Description]]
 
-### (Mining)
-Mining
+### [[(Mining)]]
+![[(Mining)#^Description]]
 
-### (Farming)
-Farming
+### [[(Farming)]]
+![[(Farming)#^Description]]
 
-### (Transport)
-Transport
+### [[(Transportation)]]
+![[(Transportation)#^Description]]
 
-### (Decoration)
-Decoration
+### [[(Decoration)]]
+![[(Decoration)#^Description]]
 
 ### [[Field]]
 ![[Field#^Description]]
 
-Depends on:
-- Banner Tooltips 
+### [[(Redstone)]]
+![[(Redstone)#^Description]]
 
-### (Redstone)
-Redstone
-
-### (Combat)
-Combat
+### [[(Combat)]]
+![[(Combat)#^Description]]
 
 
 
 ## Systems
 
-### Tassel (Enchanting)
-Tassel
+### [[Tassel]]
+![[Tassel#^Description]]
 
-### Cork (Brewing)
-Brewing
-
-Depends on:
-- (Data-driven brewing)
+### [[Cork]]
+![[Cork#^Description]]
 
 ### (Advancements)
 Completely overhauls the existing vanilla advancements to feel less like a grab-bag of whatever features were added that update, and more like actual progression. This also comes along with many new advancements, advancement rewards, and a new style of advancement progression.
 
-Depends on:
-- (Improved advancements menu)
-- (Added advancement capabilities)
 
 
+## World
 
-## Biomes
+### [[(Forests)]]
+![[(Forests)#^Description]]
 
-### (Forests)
-Forests
+### [[(Jungle)]]
+![[(Jungle)#^Description]]
 
-### (Jungle)
-Jungle
+### [[(Desert)]]
+![[(Desert)#^Description]]
+
+### [[(Cave Biomes)]]
+![[(Cave Biomes)#^Description]]
 
 
 
 ## Dimensions
 
-### Ember (Nether)
+### [[Ember]]
 ![[Ember#^Description]]
 
-### (End)
-End
+### [[(End)]]
+![[(End)#^Description]]
 
-### (Aloft)
-Aloft
+### [[(Aloft)]]
+![[(Aloft)#^Description]]
 
-### (Hallow)
-Hallow
+### [[(Hallow)]]
+![[(Hallow)#^Description]]
 
 
 
-## Technical
-
-### (Improved Gamerules)
-Improved gamerules
+## Granular
+- (Leaves turn white in snow)
+- [[(Gamerules)]]
+- (Improved advancements menu)
+- (Added advancement capabilities)
+- (Data-driven brewing)
+- (Banner tooltips)
+- (Redistributed mob spawning)
+- (Improved leads)
+- (Bark)
+- (Glass Shards)
 
 
 

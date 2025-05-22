@@ -1,5 +1,12 @@
 ___
 # (Mining)
+Description ^Description
+
+___
+# Features
+
+## To-Do
+- [ ] 
 
 ___
 # Links

@@ -1,5 +1,0 @@
-# Badlands
-
-## Eroded
-
-## Wooded
